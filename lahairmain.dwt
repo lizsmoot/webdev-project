@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>La Hair - Template</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="969" border="0" align="center" cellpadding="20" cellspacing="0">
+  <tbody>
+    <tr>
+      <th colspan="3" scope="col"><p><img src="../images/lahairlogo.png" alt="" width="258" height="69" title="La Hair Logo" align="middle"/></p>
+      <p><img src="../images/lahairslogan.png" width="491" height="44" alt=""/></p></th>
+    </tr>
+    <tr>
+      <td colspan="3"><div align="center">
+		<nav>
+  		<a href="#" class="active">Home</a>
+  		<a href="#">Link 1</a>
+  		<a href="#">Link 2</a>
+  		<a href="#">Link 3</a>
+  		<a href="#">Link 4</a>
+		</nav>
+</div>&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="152" rowspan="2" valign="top"><!-- TemplateBeginEditable name="leftpanel" -->left panel<!-- TemplateEndEditable --></td>
+      <td width="529"><!-- TemplateBeginEditable name="pagetitle" -->page title<!-- TemplateEndEditable --></td>
+      <td width="168" rowspan="2" valign="top"><!-- TemplateBeginEditable name="rightpanel" -->right panel<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td><!-- TemplateBeginEditable name="maincontent" -->main content<!-- TemplateEndEditable --></td>
+    </tr>
+    <tr>
+      <td>Northside Tower,<br>
+        Suite 510 6065 Roswell Road NE<br>
+      Atlanta, GA 30328</td>
+      <td>&nbsp;</td>
+      <td align="center" valign="top"><p>Connect With Us!</p>
+        <p><img src="../images/facebook.png" alt="Facebook" width="60" height="61" title="LA Hair Facebook" href="https://www.facebook.com/profile.php?id=100015040153538"/></p>
+        <p><a href="https://twitter.com/LaHairAtl"><img src="../images/twitter.png" alt="Twiiter" width="51" height="50" title="LA Hair Twitter"/></a></p>
+      <p>&nbsp;</p></td>
+    </tr>
+  </tbody>
+</table>
+</body>
+</html>
