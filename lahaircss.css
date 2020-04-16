@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+html {
+	background-color: #FFDACB;
+}
+
+body {
+	background-color: #FFDACB;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+th {
+	background-color: #ECB199;
+	border: 1px solid #74331A;
+}
+
+td {
+	background-color: #FFDACB;
+	color: #7A3418;
+}
+
+td.navi{
+	background-color: #A15639;
+	border: 2px solid #7A3418;
+}
+
+td.impact{
+	font-family: Impact, Verdana, Arial, sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 200%;
+	text-align: center;
+}
+
