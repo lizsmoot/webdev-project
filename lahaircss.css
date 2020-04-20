@@ -32,6 +32,11 @@ td.impact{
 	text-align: center;
 }
 
+.footer {
+	color: #7A3418;
+	background-color: #ECB199;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #A15639;
@@ -95,4 +100,13 @@ td.impact{
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+
+a.site {
+	color: #7A3418;
+}
+
+td.site {
+	color: #150E0B;
+	font-weight: bold;
 }

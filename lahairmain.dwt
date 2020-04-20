@@ -38,10 +38,9 @@
       		<a href="#">What to Expect</a>
     	</div>
   		</div>
-		<a href="#">Before/Afer Gallery</a>
+		<a href="#">Before/After Gallery</a>
 		<a href="#">Contact Us</a>
-		</div>
-</div>&nbsp;</td>
+		</div></td>
     </tr>
     <tr>
       <td width="140" rowspan="2" valign="top"><!-- TemplateBeginEditable name="leftpanel" -->left panel<!-- TemplateEndEditable --></td>
@@ -49,18 +48,18 @@
       <td width="185" rowspan="2" valign="top"><!-- TemplateBeginEditable name="rightpanel" -->right panel<!-- TemplateEndEditable --></td>
     </tr>
     <tr>
-      <td height="135"><!-- TemplateBeginEditable name="maincontent" -->main content<!-- TemplateEndEditable --></td>
+      <td height="197"><!-- TemplateBeginEditable name="maincontent" -->main content<!-- TemplateEndEditable --></td>
     </tr>
     <tr>
-      <td>Northside Tower,<br>
+      <td align="center">Northside Tower,<br>
         Suite 510 6065 Roswell Road NE<br>
       Atlanta, GA 30328</td>
       <td align="center" valign="bottom">
-		<nav>
-		  <p class="footer"><a href="#">Home</a>
-		    <a href="#">Sitemap</a>
-		    <a href="#">Feedback</a>
-			<a href="#">Credits</a>
+		<nav class="footer">
+		  <p><a href="#" class="site">Home</a>
+		    <a href="#" class="site">Sitemap</a>
+		    <a href="#" class="site">Feedback</a>
+			<a href="#" class="site">Credits</a>
 	      </p>
 		</nav></td>
       <td align="center" valign="top"><p>Connect With Us!</p>
