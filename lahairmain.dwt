@@ -11,6 +11,7 @@
 </head>
 
 <body>
+<!-- Set up web content layout in table-->
 <table width="1151" border="0" align="center" cellpadding="20" cellspacing="0">
   <tbody>
     <tr>
@@ -19,14 +20,15 @@
     </tr>
     <tr>
       <td colspan="3" class="navi" align="center">
+	<!-- container for horizontal navigation bar with dropdown menus-->
 		<div class="navbar">
   			<a href="#home">Home</a>
-  			<a href="#news">Salon Services</a>
+  			<a href="../project/webdev-project/lahairSS.html">Salon Services</a>
   		<div class="dropdown">
 			<button class="dropbtn">About LA Hair</button>
     	<div class="dropdown-content">
       		<a href="#">About Us</a>
-      		<a href="#">The Hair Story</a>
+      		<a href="../project/webdev-project/thehairstory.html">The Hair Story</a>
       		<a href="#">First Time Shoppers</a>
     	</div>
   		</div>
@@ -38,30 +40,34 @@
       		<a href="#">What to Expect</a>
     	</div>
   		</div>
-		<a href="#">Before/After Gallery</a>
+		<a href="../project/webdev-project/beforeafter.html">Before/After Gallery</a>
 		<a href="#">Contact Us</a>
 		</div></td>
     </tr>
     <tr>
+	<!-- left and right panels available to use for extra images or other content not in the main content section-->
       <td width="140" rowspan="2" valign="top"><!-- TemplateBeginEditable name="leftpanel" -->left panel<!-- TemplateEndEditable --></td>
       <td width="706" class="impact"><!-- TemplateBeginEditable name="pagetitle" -->page title<!-- TemplateEndEditable --></td>
       <td width="185" rowspan="2" valign="top"><!-- TemplateBeginEditable name="rightpanel" -->right panel<!-- TemplateEndEditable --></td>
     </tr>
     <tr>
-      <td height="197"><!-- TemplateBeginEditable name="maincontent" -->main content<!-- TemplateEndEditable --></td>
+      <td height="312"><!-- TemplateBeginEditable name="maincontent" -->main content<!-- TemplateEndEditable --></td>
     </tr>
     <tr>
+	<!-- fixed LA Hair address-->
       <td align="center">Northside Tower,<br>
         Suite 510 6065 Roswell Road NE<br>
       Atlanta, GA 30328</td>
       <td align="center" valign="bottom">
 		<nav class="footer">
+	<!-- container for footer navigation-->
 		  <p><a href="#" class="site">Home</a>
-		    <a href="#" class="site">Sitemap</a>
+		    <a href="../project/webdev-project/sitemap.html" class="site">Sitemap</a>
 		    <a href="#" class="site">Feedback</a>
 			<a href="#" class="site">Credits</a>
 	      </p>
 		</nav></td>
+	<!-- fixed social media link section-->
       <td align="center" valign="top"><p>Connect With Us!</p>
         <p><img src="../images/facebook.png" alt="Facebook" width="60" height="61" title="LA Hair Facebook" href="https://www.facebook.com/profile.php?id=100015040153538"/></p>
         <p><a href="https://twitter.com/LaHairAtl"><img src="../images/twitter.png" alt="Twiiter" width="51" height="50" title="LA Hair Twitter"/></a></p>
