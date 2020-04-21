@@ -3,7 +3,9 @@
 html {
 	background-color: #FFDACB;
 }
-
+p {
+	text-align:center
+}
 body {
 	background-color: #FFDACB;
 	font-family: Verdana, Arial, sans-serif;
