@@ -8,7 +8,12 @@ body {
 	background-color: #FFDACB;
 	font-family: Verdana, Arial, sans-serif;
 }
+/* h3 hair story text color accent */
+h3.hairstory {
+	color: #864A32;
+}
 
+/* specifying style rules for content within main table in template including headings and footer navigation */
 th {
 	background-color: #ECB199;
 	border: 1px solid #74331A;
@@ -37,6 +42,7 @@ td.impact{
 	background-color: #ECB199;
 }
 
+/* main navigation bar style rules for dropdown horizontal nav */
 .navbar {
   overflow: hidden;
   background-color: #A15639;
@@ -87,7 +93,7 @@ td.impact{
 
 .dropdown-content a {
   float: none;
-  color: black;
+  color: #000000;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -102,6 +108,7 @@ td.impact{
   display: block;
 }
 
+/* style rules for links and subheadings on site map page */
 a.site {
 	color: #7A3418;
 }
@@ -109,4 +116,12 @@ a.site {
 td.site {
 	color: #150E0B;
 	font-weight: bold;
+}
+
+/* hair story left panel styles for legibility and blocking */
+td.hairstoryleft {
+	background-color: #B5613F;
+	font-weight: bold;
+	color: #FFEBEC;
+	text-align: center;
 }
